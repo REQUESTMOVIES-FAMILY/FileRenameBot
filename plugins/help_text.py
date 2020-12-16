@@ -74,7 +74,7 @@ async def start(bot, update):
                     InlineKeyboardButton('Feedback', url='https://t.me/Arjuvk')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/RM_Maintenance'),
+                    InlineKeyboardButton('Other Bots', url='https://t.me/RM_MAINTENANCE'),
                     InlineKeyboardButton('Group', url='https://t.me/RM_MOVIESGROUP')
                 ]
             ]

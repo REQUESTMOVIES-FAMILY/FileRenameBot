@@ -70,12 +70,12 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Support Channel', url='https://t.me/ucmoviesall'),
+                    InlineKeyboardButton('Support Channel', url='https://t.me/RM_ARCHIVE1'),
                     InlineKeyboardButton('Feedback', url='https://t.me/Arjuvk')
                 ],
                 [
                     InlineKeyboardButton('Other Bots', url='https://t.me/RM_Maintenance'),
-                    InlineKeyboardButton('Group', url='https://t.me/ucmoviesallgroup')
+                    InlineKeyboardButton('Group', url='https://t.me/RM_MOVIESGROUP')
                 ]
             ]
         ),
